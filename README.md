@@ -55,7 +55,14 @@ LinkedIn_auto_apply_resume_generator/
 
 ---
 ## Additional tips
- After all open_chrome.py and chrome driver vesrion worked properly searching process and easy apply button visible it will display pop-up message ->>looks good,continue[button] ..you need to click that button after that only Apply process will begin otherwise it will remain same!!
+ After running open_chrome.py, if the Chrome driver version is compatible and the searching process successfully detects the Easy Apply button, a pop-up message will be displayed:
+
+"Looks good, continue" [Button]
+
+👉 You must click this button to proceed.
+👉 If you do not click it, the Apply process will not start and will remain in the same state.
+
+🚀 Click the button to begin the application process!
  
 ---
 
