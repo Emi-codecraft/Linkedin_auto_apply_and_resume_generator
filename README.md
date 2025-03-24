@@ -5,6 +5,19 @@ This tool automates the job application process on **LinkedIn** by scraping job 
 
 ---
 
+## 📸 Sample Output
+
+### Searching & filtering..
+![Searching & filtering..](img/output1.png)
+
+### Ready to Apply button
+![Ready to Apply button](img/output2.png)
+
+### Uploading Resume & Answering Questions
+![Uploading Resume & Answering Questions](img/output3.png)
+
+---
+
 ## 🚀 Features
 - **Automated LinkedIn Job Applications**
 - **AI-Based Resume Customization**
@@ -49,13 +62,20 @@ LinkedIn_auto_apply_resume_generator/
 │── config/                  # Configuration files (settings, questions, secrets)
 │── modules/                 # Core automation scripts
 │── logs/                    # Application history & logs
-│── runAiBot.py              # Main script to start the bot
+│── Linkedin_Auto.py             # Main script to start the bot
 │── README.txt               # Project documentation
 ```
 
 ---
 ## Additional tips
- After all open_chrome.py and chrome driver vesrion worked properly searching process and easy apply button visible it will display pop-up message ->>looks good,continue[button] ..you need to click that button after that only Apply process will begin otherwise it will remain same!!
+ After running open_chrome.py, if the Chrome driver version is compatible and the searching process successfully detects the Easy Apply button, a pop-up message will be displayed:
+
+"Looks good, continue" [Button]
+
+👉 You must click this button to proceed.
+👉 If you do not click it, the Apply process will not start and will remain in the same state.
+
+🚀 Click the button to begin the application process!
  
 ---
 
