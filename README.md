@@ -49,7 +49,7 @@ LinkedIn_auto_apply_resume_generator/
 │── config/                  # Configuration files (settings, questions, secrets)
 │── modules/                 # Core automation scripts
 │── logs/                    # Application history & logs
-│── runAiBot.py              # Main script to start the bot
+│── Linkedin_Auto.py             # Main script to start the bot
 │── README.txt               # Project documentation
 ```
 
