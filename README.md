@@ -7,16 +7,21 @@ This tool automates the job application process on **LinkedIn** by scraping job 
 
 ## 📸 Sample Output
 
-### Searching & filtering..
-![Searching & filtering..](img/output1.png)
+### Searching & Filtering
+![Searching & Filtering](img/output1.png)
 
-### Ready to Apply button
-![Ready to Apply button](img/output2.png)
+---
+
+### Ready to Apply Button
+![Ready to Apply Button](img/output2.png)
+
+---
 
 ### Uploading Resume & Answering Questions
 ![Uploading Resume & Answering Questions](img/output3.png)
 
 ---
+
 
 ## 🚀 Features
 - **Automated LinkedIn Job Applications**
